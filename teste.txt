@@ -1,1 +1,2 @@
 Verificando funcionamento da funçao echo
+agora tem mais a opcao de uso distribuido
